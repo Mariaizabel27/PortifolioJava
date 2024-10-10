@@ -19,7 +19,7 @@ public static void main(String[] args) {
 	
 	        Scanner scanner = new Scanner(System.in);
 	        
-	        String[] respostas = new String[10];
+	        String[] respostas = new String[10]; 
 	        String[] perguntas = {
 	            "Você se sente com dificuldade de concentração?",
 	            "Você se sente cansado facilmente?",
