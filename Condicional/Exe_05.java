@@ -1,3 +1,4 @@
+//Utilizado para saber se o número e positivo
 //Desenvolvido por:Camila e Maria   
 import java.util.Scanner;
 
