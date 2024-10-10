@@ -1,3 +1,4 @@
+//Utilizado para digitar um número de 1 a 100
 //Desenvolvido por:Camila e Maria                 
 import java.util.Scanner;
 public class Exe_01 {
