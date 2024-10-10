@@ -1,3 +1,4 @@
+//Utilizado para realizar a soma dos números inteiros
 import java.util.Scanner;
 public class Numeros {
 public static void main(String[] args) {
