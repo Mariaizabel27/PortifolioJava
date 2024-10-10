@@ -1,4 +1,4 @@
-
+//Utilizado para testar os operadores 
 public class Testes_Operadores {
 
 	public static void main(String[] args) {
