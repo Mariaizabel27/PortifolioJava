@@ -1,4 +1,4 @@
-//Utilizando o if e else
+//Utilizando o if e else para dizer se é maior de idade ou menor de idade
 import java.util.Scanner;
 public class Idade {
 	public static void main(String[]args) {
