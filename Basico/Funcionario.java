@@ -1,3 +1,4 @@
+//Utilizado para calcular o salario do funcionario
 import java.util.Scanner;
 public class Funcionario {
 public static void main(String[] args) {
