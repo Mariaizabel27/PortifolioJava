@@ -1,5 +1,5 @@
 //Feito por:Maria Izabel_Camila Morais - Data:05/09/2024
-
+//Esse código realiza a função da calculadora
 import java.util.Scanner;
 public class CalculadoraSimples {
 	public static void main(String[] args) {
