@@ -1,3 +1,4 @@
+//Utilizado para calcular o IMC da pessoa
 import java.util.Scanner;
 public class Calc_IMC {
 
